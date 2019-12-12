@@ -5,3 +5,10 @@ db.json
 node_modules/
 public/
 .deploy*/
+
+# Pyre type checker
+.pyre/
+idea/
+.idea/
+.vscode/
+.cache_data/
