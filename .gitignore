@@ -12,3 +12,4 @@ idea/
 .idea/
 .vscode/
 .cache_data/
+.idea/*
